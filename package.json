@@ -1,6 +1,6 @@
 {
   "name": "vue-lowdb",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Bind vue data to a lowdb database",
   "author": "Quentin Goinaud <armaldio@gmail.com>",
   "main": "dist/vue-lowdb.common.js",
